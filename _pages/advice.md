@@ -1,10 +1,11 @@
 ---
 layout: page
-title: Available projects
-permalink: /available-projects/
+title: Advice
+permalink: /advice/
 categories: [Advice]
 ---
 
-While Australia benefits greatly from international Ph.D. students, obtaining a fellowship to study there is not easy.
+This is a collection of links from academics providing advice to prospective students
 
-- University-specific guidelines and deadlines?
+- [Scott Keogh, ANU](https://keoghlab.com/resources-and-advice-for-students). This is a broad collecting of resources and opinions covering almost everything you can think of in academia.
+- [Michael Singer, formerly University of Texas](https://www.ucl.ac.uk/taxome/jim/Mim/singer_grad_advice.htm). An opinionated look at how to structure a Ph.D., taking a more U.S.-centric view.

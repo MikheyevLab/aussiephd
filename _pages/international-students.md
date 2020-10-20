@@ -1,12 +1,7 @@
 ---
 layout: page
-title: Available projects
-permalink: /available-projects/
+title: International students
+permalink: /international-students/
 ---
 
-This pages lists university research project pages and provides links to higher degree by research convenors. You should contact the project lead directly with questions about the project. The convenor can help out with questions about the mechanics of applying.
-
-## Universities
-
-- [Australian National University](https://biology.anu.edu.au/research/projects?title_current=&field_groups_target_id=All&field_degree_type_tid=51&field_project_type_tid=71)
-  - Convenor: [Spencer Whitney](https://biology.anu.edu.au/people/academics/spencer-whitney)
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse metus magna, accumsan vel arcu et, hendrerit consectetur eros. Nam sollicitudin, risus vitae ullamcorper ultricies, quam felis pharetra quam, sed viverra tortor turpis eget velit. Pellentesque vel pharetra metus. Pellentesque ut justo nunc. Nunc finibus mi id consequat laoreet. Curabitur arcu nunc, tincidunt at quam quis, fringilla mollis lorem. Quisque at justo ex. Sed sit amet diam eget neque fermentum maximus id eget enim. Duis et dignissim nulla, eu sodales erat. Ut posuere sed velit at congue.
