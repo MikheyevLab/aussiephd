@@ -9,5 +9,5 @@ This pages lists university research project pages and provides links to higher 
 
 ## Universities
 
-- [Australian National University](https://biology.anu.edu.au/research/projects?title_current=&field_groups_target_id=All&field_degree_type_tid=51&field_project_type_tid=71)
-  - Convenor: [Spencer Whitney](https://biology.anu.edu.au/people/academics/spencer-whitney)
+- [Australian National University](https://biology.anu.edu.au/research/divisions/division-ecology-and-evolution/domestic-applicants-for-phds-in-ecology-evolution)
+  - Convenor: [Celeste Linde](https://biology.anu.edu.au/people/academics/celeste-linde)
